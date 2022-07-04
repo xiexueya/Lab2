@@ -22,7 +22,7 @@ Namespace My.Resources
     '''<summary>
     '''  A strongly-typed resource class, for looking up localized strings, etc.
     '''</summary>
-    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0"),  _
+    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0"),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
      Global.Microsoft.VisualBasic.HideModuleNameAttribute()>  _
@@ -66,6 +66,27 @@ Namespace My.Resources
         Friend ReadOnly Property _5f1153b1f8c90812168a9fa48131b234_400x400() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("5f1153b1f8c90812168a9fa48131b234_400x400", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property ce5a572c800ef8f0b52dbe3584d5df05_fondo_del_atardecer_del_campo_de_cultivo() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("ce5a572c800ef8f0b52dbe3584d5df05-fondo-del-atardecer-del-campo-de-cultivo", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property farmer_sprays_pesticide_herbicide_agriculture_plant_man_spraying_chemical_fertilizer_to_plantation_treatment_pest_236835111() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("farmer-sprays-pesticide-herbicide-agriculture-plant-man-spraying-chemical-fertili"& _ 
+                        "zer-to-plantation-treatment-pest-236835111", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

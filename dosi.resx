@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="logo_utp_2_300" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo_utp_2_300.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5f1153b1f8c90812168a9fa48131b234_400x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5f1153b1f8c90812168a9fa48131b234_400x400.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ce5a572c800ef8f0b52dbe3584d5df05-fondo-del-atardecer-del-campo-de-cultivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>C:\Users\wwwfh\Downloads\ce5a572c800ef8f0b52dbe3584d5df05-fondo-del-atardecer-del-campo-de-cultivo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="farmer-sprays-pesticide-herbicide-agriculture-plant-man-spraying-chemical-fertilizer-to-plantation-treatment-pest-236835111" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>C:\Users\wwwfh\Downloads\farmer-sprays-pesticide-herbicide-agriculture-plant-man-spraying-chemical-fertilizer-to-plantation-treatment-pest-236835111.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
